@@ -46,7 +46,7 @@ public class switch_statement {
             case 6:
                 dayName = "Saturday";
                 break;
-            case 7:
+            case 7: 
                 dayName = " Sunday";
                 break;
             default:
